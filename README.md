@@ -1,2 +1,2 @@
 # lung_metastasis_CNV_landscape
-### The project's goal is to study the CNV landscape through frequency analysis of deep deletions, amplifications occured in the lung metastatic dataset. 
+### The project's goal is to study the CNV landscape through frequency analysis of deep deletions, amplifications occured in the lung metastatic dataset downloaded from cBioportal. From the dataset the focus was centric to data_cna and meta_cna. These two datasets showed the CNV value counts as -2,-1, 0 and +2 and the descripption of files acquired respectively. Initial analytics were carried out to retrieve top mutated genes from the database with their counts and later studied frequency analysis through percentage of sample amplified and deleted. 
